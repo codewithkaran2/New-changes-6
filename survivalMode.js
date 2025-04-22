@@ -444,9 +444,3 @@ window.survivalStartGame = survivalStartGame;
 window.togglePause       = togglePause;
 window.restartGame       = restartGame;
 window.playAgain         = playAgain;
-
-// Make these globals
-window.openLeaderboard       = openLeaderboard;
-window.closeLeaderboard      = closeLeaderboard;
-window.fetchLeaderboard      = fetchLeaderboard;
-window.submitScoreAndShow    = submitScoreAndShow;
